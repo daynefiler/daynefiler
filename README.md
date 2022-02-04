@@ -9,6 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I run a local bourbon club. 
 
-Check out my [website](https://daynefiler.com) where you can find my [CV](https://daynefiler.com/cv/filer_cv.pdf) or read my [PhD dissertation](https://daynefiler.com/dissertation). You can also read my [personal mission statement](https://gist.github.com/daynefiler/bec46ea10b26e0cf0225e2d9b7f6ce98) gist. 
+Check out my [website](https://daynefiler.com); you can find my [CV](https://daynefiler.com/cv/filer_cv.pdf) or read my [dissertation](https://daynefiler.com/dissertation). You can also read my [personal mission statement](https://gist.github.com/daynefiler/bec46ea10b26e0cf0225e2d9b7f6ce98) gist. 
 
 
