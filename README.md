@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**daynefiler/daynefiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on finishing medical school. 
+- 🌱 I’m currently learning how to use the rstats grid package. 
+- 👯 I’m looking to collaborate on R packages and research related to data science in maternal health. 
+- 🤔 I’m looking for help with how to extend ggplot2 and better utilize the BioConductor S4 universe.
+- 💬 Ask me about my basses!
+- 📫 How to reach me: dayne.filer <at> gmail 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I run a local bourbon club. 
 
-Here are some ideas to get you started:
+Check out my [website](https://daynefiler.com) where you can find my [CV](https://daynefiler.com/cv/filer_cv.pdf) or read my [PhD dissertation](https://daynefiler.com/dissertation). You can also read my [personal mission statement](https://gist.github.com/daynefiler/bec46ea10b26e0cf0225e2d9b7f6ce98) gist. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
