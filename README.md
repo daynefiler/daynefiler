@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finishing medical school. 
+- 🔭 I’m currently a resident physician scientist in the [Duke Obstetrics & Gynecology Department](https://obgyn.duke.edu). 
 - 🌱 I’m currently learning how to use the rstats grid package. 
 - 👯 I’m looking to collaborate on R packages and research related to data science in maternal health. 
 - 🤔 I’m looking for help with how to extend ggplot2 and better utilize the BioConductor S4 universe.
