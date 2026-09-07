@@ -2,6 +2,8 @@ I build robust, maintainable software and reproducible analytical systems for re
 
 My background combines an MD and PhD in Bioinformatics and Computational Biology with several years of computational toxicology research at the U.S. EPA. I have also designed and taught graduate-level R programming courses and have worked across academic, clinical laboratory, government, and industry settings.
 
+I am available for hourly consulting, fixed-scope projects, code review, and short-term contract work in research software, scientific computing, statistics, bioinformatics, and reproducible research.
+
 ## Selected work
 
 - [`tcpl`](https://cran.r-project.org/package=tcpl) — R package and SQL-backed analytical infrastructure for high-throughput chemical screening data.
@@ -27,6 +29,3 @@ For performance-critical R software, I also work with **C, C++, and Fortran inte
 - Selected work: [daynefiler.com/work](https://daynefiler.com/work/)
 - Services: [daynefiler.com/consulting](https://daynefiler.com/consulting/)
 - CV: [daynefiler.com/cv/filer_cv.pdf](https://daynefiler.com/cv/filer_cv.pdf)
-- Email: [dayne.filer@gmail.com](mailto:dayne.filer@gmail.com)
-
-I am available for **hourly consulting, fixed-scope projects, code review, and short-term contract work** in research software, scientific computing, statistics, bioinformatics, and reproducible research.
