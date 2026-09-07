@@ -1,7 +1,3 @@
-# Dayne Filer, MD, PhD
-
-**Research Software Engineer · Scientific Computing Consultant**
-
 I build robust, maintainable software and reproducible analytical systems for research and data-intensive organizations. My work spans **R package development, scientific pipelines, statistical computing, bioinformatics, simulation, visualization, databases, and technical training**.
 
 My background combines an MD and PhD in Bioinformatics and Computational Biology with several years of computational toxicology research at the U.S. EPA. I have also designed and taught graduate-level R programming courses and have worked across academic, clinical laboratory, government, and industry settings.
